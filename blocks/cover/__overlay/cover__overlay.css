@@ -1,0 +1,26 @@
+.cover__overlay {
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    display: block;
+    z-index: 1;
+}
+
+.cover__overlay::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #2A2C2F;
+    opacity: .3;
+    transition:  0.2s ease-in-out;
+    z-index: -1;
+}
+
+.cover__overlay:hover::after {
+    opacity: .8;
+  }

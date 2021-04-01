@@ -1,0 +1,26 @@
+.page__container {
+    margin: 0 auto;
+    margin-top: 92px;
+}
+
+.page__container:first-of-type {
+    margin-top: 52px;
+}
+
+@media (max-width: 1024px) {
+    .page__container:first-of-type {
+        margin-top: 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .page__container {
+        margin-top: 88px;
+    }
+}
+
+@media (max-width: 350px) {
+    .page__container {
+        margin-top: 64px;
+    }
+}

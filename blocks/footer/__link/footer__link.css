@@ -1,0 +1,12 @@
+.footer__link {
+    margin-right: 18px;
+}
+@media (max-width: 650px) {
+    .footer__link {
+        margin-top: 32px;  
+    }
+
+    .footer__link:first-of-type {
+        margin-top: 0;  
+    }
+}

@@ -1,0 +1,12 @@
+.intro {
+    font-family: 'Inter', Arial, sans-serif;
+    max-width: 984px;
+    color: #FFFFFF;
+}
+
+@media (max-width: 990px) {
+    .intro {
+        max-width: 95%;
+    } 
+}
+
