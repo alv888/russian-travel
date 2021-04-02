@@ -9,5 +9,5 @@
 3. Flexbox-вёрстка
 4. Grid Layout
 
-## ССылка на проект
-* [Путешествия по России] ()
+## Сcылка на проект
+* https://alv888.github.io/russian-travel/
