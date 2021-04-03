@@ -23,10 +23,10 @@
 
 @media (max-width: 600px) {
     .cover__subtitle {
-    padding-top: 16px;
-    font-size: 14px;
-    line-height: 16px;
-    padding-bottom: 33px;
-    max-width: 288px;
+        padding-top: 16px;
+        font-size: 14px;
+        line-height: 16px;
+        padding-bottom: 33px;
+        max-width: 288px;
     }
 }

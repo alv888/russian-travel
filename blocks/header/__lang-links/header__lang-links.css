@@ -1,0 +1,6 @@
+.header__lang-links {
+    display: flex;
+    color: inherit;
+    justify-content: space-between;
+    align-self: center;
+}

@@ -4,6 +4,9 @@
     font-size: 12px;
     line-height: 12px;
     letter-spacing: 0.2em;
+    margin: 0;
+    margin-bottom: 12px;
+    text-transform: uppercase;
 }
 
 @media (max-width: 350px) {
